@@ -1,0 +1,16 @@
+
+TYPES = {
+    "FRITES FRAICHES CRUES 8x8": "A",
+    "FRITES FRAICHES CRUES 10x10": "B",
+    "LAMELLE FRAICHES CRUES": "C",
+    "PDT FRAICHES CRUES ENTIERES": "D",
+    "PDT FRAICHES CRUES EN CUBES": "E"
+}
+
+WEIGHT = {
+    "2.50KG": "1",
+    "5.00KG": "2",
+    "7.50KG": "3",
+    "10.00KG": "4",
+    "4.00KG": "5"
+}
